@@ -22,6 +22,9 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   
 - Data Augmentation
   - AdvProp [TODO]
+  
+- Camera Pipeline
+  - Deep Demosaicing for Edge Implementation
 
 ### ◎ Generative Graphics
 - Architectures
