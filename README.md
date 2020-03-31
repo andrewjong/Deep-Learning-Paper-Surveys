@@ -3,7 +3,7 @@ Personal repository to track my paper surveys.
 
 Each paper summary is under Issues. Progress is managed on the Projects page.
 
-## ■ Papers
+## ■ Deep Learning Papers
 ### ◎ General Deep Learning
 - Activation Functions
   - Swish
@@ -50,6 +50,9 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
 - Architectures
   - Attention is All You Need (Transformers)
   - BERT
+
+## ■ Other Papers
+Maybe I'll survey papers from other fields.
 
 ## ■ How to read and research papers on machine learning
  - Paper survey
