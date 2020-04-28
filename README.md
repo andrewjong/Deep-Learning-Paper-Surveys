@@ -52,6 +52,7 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
 - Systems (fundamental systems that generalize widely)
   - Pix2Pix
   - CycleGAN
+  - Guided Image-to-Image Translation with Bi-Directional Feature Transformation
 
 - Applications
   - Virtual Try-on
