@@ -22,6 +22,7 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - Searching for MobileNetV3
   - EfficientNets
   - Designing Network Design Spaces
+  - FBNet
   
 - Data Augmentation
   - AutoAugment
