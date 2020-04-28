@@ -49,7 +49,7 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - Mescheder R1/R2
   - Implicit Competitive Regularization
   
-- Systems
+- Systems (fundamental systems that generalize widely)
   - Pix2Pix
   - CycleGAN
 
