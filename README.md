@@ -14,8 +14,12 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
 
 ### ◎ Vision
 - Hand-Designed Architectures
-  - MobileNetV1
-  - MobileNetV2
+  - Accuracy
+    - ?
+  - Mobile Efficiency
+    - MobileNetV1
+    - MobileNetV2
+    - GhostNet
 
 - Neural Architecture Search
   - MNasNet
