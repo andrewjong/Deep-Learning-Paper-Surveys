@@ -13,12 +13,15 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
 - Learning Rate
 
 ### ◎ Vision
-- Architectures
-  - MobileNetV1 [TODO]
-  - MobileNetV2 [TODO]
-  - MNasNet [TODO]
-  - MobileNetV3 [TODO]
-  - EfficientNets [TODO]
+- Hand-Designed Architectures
+  - MobileNetV1
+  - MobileNetV2
+
+- Neural Architecture Search
+  - MNasNet
+  - Searching for MobileNetV3
+  - EfficientNets
+  - Designing Network Design Spaces
   
 - Data Augmentation
   - AutoAugment
