@@ -21,6 +21,8 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - EfficientNets [TODO]
   
 - Data Augmentation
+  - AutoAugment
+  - Fast AutoAugment
   - AdvProp [TODO]
   
 - Camera Pipeline
