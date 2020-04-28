@@ -48,9 +48,14 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - WGAN-GP
   - Mescheder R1/R2
   - Implicit Competitive Regularization
+  
+- Systems
+  - Pix2Pix
+  - CycleGAN
 
-- Virtual Try-on
-  - FW-GAN
+- Applications
+  - Virtual Try-on
+    - FW-GAN
 
 ### ◎ Reinforcement Learning
 - Algorithms
