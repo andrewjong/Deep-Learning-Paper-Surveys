@@ -17,8 +17,9 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - Accuracy
     - ?
   - Mobile Efficiency
-    - MobileNetV1
-    - MobileNetV2
+    - MobileNetV1: Depthwise Separable Convolutions
+    - MobileNetV2: Inverted and Linear Residual Bottlenecks
+    - Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
     - GhostNet
 
 - Neural Architecture Search
