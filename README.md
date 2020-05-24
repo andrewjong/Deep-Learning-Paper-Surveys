@@ -38,12 +38,13 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - Deep Demosaicing for Edge Implementation
 
 ### ◎ Generative Graphics
-- Architectures
+- Networks
   - DCGAN
   - StyleGAN
   - MSG-GAN
   - StyleGAN2
-  
+- Layers
+  - Spectral Normalization GAN (SN-GAN)
 - Loss Functions
   - WGAN
   - WGAN-GP
