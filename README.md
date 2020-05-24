@@ -6,7 +6,7 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
 ## ■ Deep Learning Papers
 ### ◎ General Deep Learning
 - Activation Functions
-  - Swish
+  - Swish [TO READ]
 
 - Batch Size
 
@@ -23,57 +23,61 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
     - GhostNet
 
 - Neural Architecture Search
-  - MNasNet
-  - Searching for MobileNetV3
-  - EfficientNets
-  - Designing Network Design Spaces
-  - FBNet
+  - MNasNet [TO WRITE]
+  - Searching for MobileNetV3 [TO READ]
+  - EfficientNets [TO WRITE] 
+  - Designing Network Design Spaces [TO WRITE]
+  - FBNet [TO WRITE]
   
 - Data Augmentation
-  - AutoAugment
-  - Fast AutoAugment
-  - AdvProp [TODO]
+  - AutoAugment [TO READ]
+  - Fast AutoAugment [TO READ]
+  - AdvProp [TO READ]
   
 - Camera Pipeline
   - Deep Demosaicing for Edge Implementation
 
 ### ◎ Generative Graphics
 - Networks
-  - DCGAN
-  - StyleGAN
-  - MSG-GAN
-  - StyleGAN2
+  - DCGAN [TO WRITE]
+  - StyleGAN [TO WRITE]
+  - MSG-GAN [TO READ]
+  - StyleGAN2 [TO READ]
 - Layers
-  - Spectral Normalization GAN (SN-GAN)
+  - Spectral Normalization GAN (SN-GAN) [TO READ]
 - Loss Functions
-  - WGAN
-  - WGAN-GP
-  - Mescheder R1/R2
-  - Implicit Competitive Regularization
+  - WGAN [TO WRITE]
+  - WGAN-GP [TO WRITE]
+  - Mescheder R1/R2 [TO WRITE]
+  - Implicit Competitive Regularization [TO READ]
   
 - Systems (fundamental systems that generalize widely)
-  - Pix2Pix
-  - CycleGAN
-  - Guided Image-to-Image Translation with Bi-Directional Feature Transformation
+  - Pix2Pix [TO WRITE]
+  - CycleGAN [TO WRITE]
+  - Guided Image-to-Image Translation with Bi-Directional Feature Transformation [TO READ]
 
 - Applications
   - Virtual Try-on
-    - FW-GAN
+    - FW-GAN [TO WRITE]
 
 ### ◎ Reinforcement Learning
 - Algorithms
-  - Q-Learning [TODO]
-  - PPO [TODO]
+  - Q-Learning [TO FIND]
+  - PPO [TO FIND]
   
-  - World Models [TODO]
+  - World Models [TO READ]
   
 - Navigation
-  - https://paperswithcode.com/paper/vision-based-navigation-with-language-based
+  - https://paperswithcode.com/paper/vision-based-navigation-with-language-based [TO READ]
+
+- Model Based
+
+- Model Free
   
 ### ◎ Natural Language Processing
 - Architectures
-  - Attention is All You Need (Transformers)
-  - BERT
+  - Attention is All You Need (Transformers) [TO READ]
+  - BERT [TO READ]
 
 ## ■ Other Papers
 Maybe I'll survey papers from other fields.
