@@ -67,6 +67,9 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   
   - World Models [TODO]
   
+- Navigation
+  - https://paperswithcode.com/paper/vision-based-navigation-with-language-based
+  
 ### ◎ Natural Language Processing
 - Architectures
   - Attention is All You Need (Transformers)
