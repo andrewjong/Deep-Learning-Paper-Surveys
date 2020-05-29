@@ -30,6 +30,7 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
   - EfficientNets [TO WRITE] 
   - Designing Network Design Spaces [TO WRITE]
   - FBNet [TO WRITE]
+  - FBNetV2
   
 - Data Augmentation
   - AutoAugment [TO READ]
