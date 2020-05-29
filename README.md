@@ -21,6 +21,8 @@ Each paper summary is under Issues. Progress is managed on the Projects page.
     - MobileNetV2: Inverted and Linear Residual Bottlenecks
     - Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
     - GhostNet
+    
+  - Squeeze-and-Excitation Networks (seems to be commonly used in a lot of top architectures)
 
 - Neural Architecture Search
   - MNasNet [TO WRITE]
