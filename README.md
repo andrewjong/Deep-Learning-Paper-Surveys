@@ -3,87 +3,26 @@ Personal repository to track my paper surveys.
 
 Each paper summary is under Issues. Progress is managed on the Projects page.
 
+See the [TODO list](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/8).
+
 ## ■ Deep Learning Papers
 ### ◎ General Deep Learning
-- Activation Functions
-  - Swish [TO READ]
-
-- Batch Size
-
-- Learning Rate
+- TODO
 
 ### ◎ Vision
-- Hand-Designed Architectures
-  - Accuracy
-    - ?
-  - Mobile Efficiency
-    - MobileNetV1: Depthwise Separable Convolutions
-    - MobileNetV2: Inverted and Linear Residual Bottlenecks
-    - Fully Learnable Group Convolution for Acceleration of Deep Neural Networks
-    - GhostNet
-    
-  - Squeeze-and-Excitation Networks (seems to be commonly used in a lot of top architectures)
-
-- Neural Architecture Search
-  - MNasNet [TO WRITE]
-  - Searching for MobileNetV3 [TO READ]
-  - EfficientNets [TO WRITE] 
-  - Designing Network Design Spaces [TO WRITE]
-  - FBNet [TO WRITE]
-  - FBNetV2
-  
-- Data Augmentation
-  - AutoAugment [TO READ]
-  - Fast AutoAugment [TO READ]
-  - AdvProp [TO READ]
-  
-- Camera Pipeline
-  - Deep Demosaicing for Edge Implementation
+- TODO
 
 ### ◎ Generative Graphics
-- Networks
-  - DCGAN [TO WRITE]
-  - StyleGAN [TO WRITE]
-  - MSG-GAN [TO READ]
-  - StyleGAN2 [TO READ]
-- Layers
-  - Spectral Normalization GAN (SN-GAN) [TO READ]
-- Loss Functions
-  - WGAN [TO WRITE]
-  - WGAN-GP [TO WRITE]
-  - Mescheder R1/R2 [TO WRITE]
-  - Implicit Competitive Regularization [TO READ]
-  
-- Systems (fundamental systems that generalize widely)
-  - Pix2Pix [TO WRITE]
-  - CycleGAN [TO WRITE]
-  - Guided Image-to-Image Translation with Bi-Directional Feature Transformation [TO READ]
-
-- Applications
-  - Virtual Try-on
-    - FW-GAN [TO WRITE]
+- [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric - Zhang et al. 2018 CVPR](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/5)
 
 ### ◎ Reinforcement Learning
-- Algorithms
-  - Q-Learning [TO FIND]
-  - PPO [TO FIND]
-  
-  - World Models [TO READ]
-  
-- Navigation
-  - https://paperswithcode.com/paper/vision-based-navigation-with-language-based [TO READ]
+- TODO 
 
-- Model Based
-
-- Model Free
-  
 ### ◎ Natural Language Processing
-- Architectures
-  - Attention is All You Need (Transformers) [TO READ]
-  - BERT [TO READ]
+- TODO
 
 ## ■ Other Papers
-Maybe I'll survey papers from other fields.
+- TODO: Maybe I'll survey papers from other fields.
 
 ## ■ How to read and research papers on machine learning
  - Paper survey
@@ -128,13 +67,14 @@ Maybe I'll survey papers from other fields.
 
 ## ■ Reference site
 ### ◎ Paper site
-arXiv
-Google Scholer
+- arXiv
+- Google Scholer
 ### ◎ Convenient site
-- papers with code
-    - You can check if the paper is implemented.
+- PapersWithCode.com: check if a paper is implemented
+- SemanticScholar.org: uses ML to cluster related papers
+- ConnectedPapers.com: visualize a graph of related papers
 - Hyper Collocation
-- arXiv Vanity
+
 ### ◎ Other reference sites
 - arXivTimes
 - ymym3412/acl-papers
