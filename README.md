@@ -17,7 +17,7 @@ See the [TODO list](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/is
 
 ### ◎ Generative Graphics
 - [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric - Zhang et al. 2018 CVPR](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/5)
-- [[NVIDIA GauGAN / SPADE] Semantic Image Synthesis with Spatially-Adaptive Normalization - Park et al. 2019 CVPR](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/12)
+- [[GauGAN/SPADE] Semantic Image Synthesis with Spatially-Adaptive Normalization - Park et al. 2019 CVPR](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/12)
 - [[SMIS] Semantically Multi-modal Image Synthesis - Zhu et al. 2020](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/7)
 
 ### ◎ Reinforcement Learning
