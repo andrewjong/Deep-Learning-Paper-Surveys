@@ -1,5 +1,5 @@
 # Deep Learning Papers Survey
-Personal repository to track my paper surveys.
+Personal repository to track my paper surveys. Based on https://github.com/Yagami360/MachineLearning-Papers_Survey.
 
 Each paper summary is under Issues. 
 - Unstarted papers are listed under [Todo](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/8). 
