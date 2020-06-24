@@ -1,7 +1,10 @@
 # Deep Learning Papers Survey
 Personal repository to track my paper surveys.
 
-Each paper summary is under Issues. Unstarted papers are listed under [Todo](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/8). Started papers are under [Open](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aopen+is%3Aissue). Totally finished papers are under [Closed](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aissue+is%3Aclosed). Progress is managed on the Projects page.
+Each paper summary is under Issues. 
+- Unstarted papers are listed under [Todo](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/8). 
+- Started papers are under [Open](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aopen+is%3Aissue). 
+- Totally finished papers are under [Closed](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aissue+is%3Aclosed).
 
 See the [TODO list](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/8).
 
