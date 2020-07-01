@@ -9,13 +9,9 @@ assignees: andrewjong
 
 ## 0. Article Information and Links
 
-- Paper link: 
+- Paper's project website: 
 - Release date: YYYY/MM/DD
 - Number of citations (as of 2020/MM/DD): 
-- Implementation code: 
-- Supplemental links (e.g. results): 
-- Publication: Conference YYYY
-
 
 ## 1. What do the authors try to accomplish?
 
