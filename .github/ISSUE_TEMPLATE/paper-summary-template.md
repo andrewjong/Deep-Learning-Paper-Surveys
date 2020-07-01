@@ -19,10 +19,12 @@ assignees: andrewjong
 
 ## 3. Where are the key elements of the technology and method?
 
-## 4. How did you verify that it works?
+## 4. How do the authors measure success?
 
-## 5. Things to discuss? (e.g. weaknesses, potential for future work, relation to other work)
+## 5. How did _you_ verify that it works?
 
-## 6. Are there any papers to read next?
+## 6. Things to discuss? (e.g. weaknesses, potential for future work, relation to other work)
 
-## 7. References
+## 7. Are there any papers to read next?
+
+## 8. References
