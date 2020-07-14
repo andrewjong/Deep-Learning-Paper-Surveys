@@ -46,13 +46,9 @@ See the [TODO list](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/is
 ```
 ## 0. Article Information and Links
 
-- Paper link: 
+- Paper's project website: 
 - Release date: YYYY/MM/DD
 - Number of citations (as of 2020/MM/DD): 
-- Implementation code: 
-- Supplemental links (e.g. results): 
-- Publication: Conference YYYY
-
 
 ## 1. What do the authors try to accomplish?
 
@@ -60,13 +56,15 @@ See the [TODO list](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/is
 
 ## 3. Where are the key elements of the technology and method?
 
-## 4. How did you verify that it works?
+## 4. How do the authors measure success?
 
-## 5. Things to discuss? (e.g. weaknesses, potential for future work, relation to other work)
+## 5. How did _you_ verify that it works?
 
-## 6. Are there any papers to read next?
+## 6. Things to discuss? (e.g. weaknesses, potential for future work, relation to other work)
 
-## 7. References
+## 7. Are there any papers to read next?
+
+## 8. References
 
 ```
 
