@@ -53,42 +53,16 @@ I'll only list nearly or 100% finished papers in this document.
     - Unresolved issues and problems in the paper are often described in Future work and Conculution in the paper. Or, it is often mentioned in the Related Work of the paper citing the paper.
 
 ## ■ Template for Paper Survey
-```
-## 0. Article Information and Links
-
-- Paper's project website: 
-- Release date: YYYY/MM/DD
-- Number of citations (as of 2020/MM/DD): 
-
-## 1. What do the authors try to accomplish?
-
-## 2. What's great compared to previous research?
-
-## 3. Where are the key elements of the technology and method?
-
-## 4. How do the authors measure success?
-
-## 5. How did _you_ verify that it works?
-
-## 6. Things to discuss? (e.g. weaknesses, potential for future work, relation to other work)
-
-## 7. Are there any papers to read next?
-
-## 8. References
-
-```
+You can use the [GitHub issue template](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/blob/master/.github/ISSUE_TEMPLATE/paper-summary-template.md) that I created for your own purposes.
 
 ## ■ Reference site
-### ◎ Paper site
-- arXiv
-- Google Scholer
-### ◎ Convenient site
+### ◎ Paper sites
+### ◎ Convenient sites
 - PapersWithCode.com: check if a paper is implemented
-- SemanticScholar.org: uses ML to cluster related papers
+- SemanticScholar.org: uses ML to cluster related papers, create custom paper feeds
 - ConnectedPapers.com: visualize a graph of related papers
-- Hyper Collocation
 
 ### ◎ Other reference sites
-- arXivTimes
+- [Yagami360/MachineLearning-Papers_Survey](https://github.com/Yagami360/MachineLearning-Papers_Survey)
 - ymym3412/acl-papers
 - shunk031/paper-survey
