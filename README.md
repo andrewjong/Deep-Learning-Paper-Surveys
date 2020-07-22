@@ -7,6 +7,7 @@ Each paper summary is under Issues.
 - Nearly finished papers are labeled [almost done](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=label%3A%22almost+done%22). Most of my "finished" papers will end up here because I may want to add more in the future.
 - 100% finished papers are under [Closed](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aissue+is%3Aclosed).
 
+I'll only list nearly or 100% finished papers in this document.
 
 ## ■ Deep Learning Papers
 ### ◎ General Deep Learning
