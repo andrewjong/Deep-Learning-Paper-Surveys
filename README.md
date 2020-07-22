@@ -56,7 +56,6 @@ I'll only list nearly or 100% finished papers in this document.
 You can use the [GitHub issue template](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/blob/master/.github/ISSUE_TEMPLATE/paper-summary-template.md) that I created for your own purposes.
 
 ## ■ Reference site
-### ◎ Paper sites
 ### ◎ Convenient sites
 - PapersWithCode.com: check if a paper is implemented
 - SemanticScholar.org: uses ML to cluster related papers, create custom paper feeds
