@@ -17,21 +17,21 @@ I'll only list nearly or 100% finished papers in this document.
 - TODO
 
 ### ◎ Generative Graphics
-#### Semantic Image Synthesis
+####  ↳ Semantic Image Synthesis
 - [[GauGAN/SPADE] Semantic Image Synthesis with Spatially-Adaptive Normalization - Park et al. 2019 CVPR](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/12)
 - [[SMIS] Semantically Multi-modal Image Synthesis - Zhu et al. 2020](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/7)
 
-#### Latent Space Exploration
+####  ↳ Latent Space Exploration
 - [[SeFa] Closed-Form Factorization of Latent Semantics in GANs - Shen and Zhou 2020](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/21)
 
-#### Metrics
+####  ↳ Metrics
 - [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric - Zhang et al. 2018 CVPR](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues/5)
 
 ### ◎ Reinforcement Learning
 - TODO 
-#### Model Free
-#### Model Based
-#### Learning from Demonstrations
+####  ↳ Model Free
+####  ↳ Model Based
+####  ↳ Learning from Demonstrations
 
 ### ◎ Natural Language Processing
 - TODO
