@@ -28,6 +28,9 @@ See the [TODO list](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/is
 
 ### ◎ Reinforcement Learning
 - TODO 
+#### Model Free
+#### Model Based
+#### Learning from Demonstrations
 
 ### ◎ Natural Language Processing
 - TODO
