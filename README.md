@@ -3,7 +3,7 @@ Personal repository to track my paper surveys. Based on [Yagami360/MachineLearni
 
 Each paper summary is under Issues. 
 - Unstarted papers are labeled [TODO](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aissue+label%3ATODO). 
-- Started papers are labeled [in progress](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=+is%3Aissue+label%3A%22in+progress%22).
+- Started papers are labeled [in progress](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=+is%3Aissue+label%3A%22in+progress%22). Not all papers need to be read in depth and will thus under this label.
 - Nearly finished papers are labeled [almost done](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=label%3A%22almost+done%22). Most of my "finished" papers will end up here because I may want to add more in the future.
 - 100% finished papers are under [Closed](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/issues?q=is%3Aissue+is%3Aclosed).
 
