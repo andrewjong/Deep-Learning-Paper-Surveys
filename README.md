@@ -41,8 +41,8 @@ I'll only list nearly or 100% finished papers in this document.
 
 ## ■ How to read and research papers on machine learning
  - Paper survey
-     - The easiest way to find an advanced version of the paper is to find the cited paper on Google Scholer.
-     -Basically, the ones with the highest number of citations are the ones of interest. However, the latest papers will of course have fewer citations.
+     - The easiest way to find an advanced version of the paper is to find the cited paper on Google Scholar.
+     - Basically, the ones with the highest number of citations are the ones of interest. However, the latest papers will of course have fewer citations.
      - Basically, the latest papers give better experimental results, so look for the latest published date on Google Scholar as much as possible.
      - If there is no official implementation of the paper, the cost of reproducing the original implementation is high, so we preferentially search for one with an official implementation.
      - Check PapersWithCode to see if the paper is officially implemented.
@@ -50,7 +50,7 @@ I'll only list nearly or 100% finished papers in this document.
 - How to read a dissertation
     - Basically, it is efficient to read "Abstract"-> "Introduction"-> "Conclusion"-> "Details of what you did"-> "Experiments"-> "Related Work". Related Work can be skipped at worst.
     - Notice the words "In this paper ..." and "In this work ..." in the Abstract and Introduction, and the words "the contributions of this paper ... as follows." At the end of the Introduction.
-    - Unresolved issues and problems in the paper are often described in Future work and Conculution in the paper. Or, it is often mentioned in the Related Work of the paper citing the paper.
+    - Unresolved issues and problems in the paper are often described in Future work and Conclusion in the paper. Or, it is often mentioned in the Related Work of the paper citing the paper.
 
 ## ■ Template for Paper Survey
 You can use the [GitHub issue template](https://github.com/andrewjong/Deep-Learning-Paper-Surveys/blob/master/.github/ISSUE_TEMPLATE/paper-summary-template.md) that I created for your own purposes.
